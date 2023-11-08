@@ -49,7 +49,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 # Questions
 [Website](https://note-taker1337-8c17745ab2ea.herokuapp.com/notes)
-[Github](https://github.com/Gabriel-Viernes)
+[Github](https://github.com/Gabriel-Viernes/note-taker)
 
 Email: email@email.com
 
