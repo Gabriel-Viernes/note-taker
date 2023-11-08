@@ -3,6 +3,8 @@
 
 # Note Taker
 
+![example screenshot](./screenshot.png)
+
 ## Description
 
 The purpose of the this project is to create an app that can save, load, and delete notes from a backend
@@ -46,7 +48,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 # Questions
-
+[Website](https://note-taker1337-8c17745ab2ea.herokuapp.com/notes)
 [Github](https://github.com/Gabriel-Viernes)
 
 Email: email@email.com
